@@ -55,7 +55,7 @@ This project demonstrates the design and implementation of a secure multi-branch
 
 ## 📷 Network Topology
 
-![Network Topology](Screenshot 2026-07-30 234808.png)
+![Network Topology](topology.png)
 ---
 
 ## 📂 Project Files
