@@ -1,5 +1,10 @@
 # Secure Multi-Branch Enterprise Network
 
+
+
+![Network Topology](topology.png)
+---
+
 ## 📌 Overview
 
 This project demonstrates the design and implementation of a secure multi-branch enterprise network using Cisco Packet Tracer. The network simulates a real-world enterprise environment by integrating routing, switching, network services, and multiple security technologies to provide secure communication between different branches.
@@ -53,10 +58,6 @@ This project demonstrates the design and implementation of a secure multi-branch
 
 ---
 
-## 📷 Network Topology
-
-![Network Topology](topology.png)
----
 
 ## 📂 Project Files
 
